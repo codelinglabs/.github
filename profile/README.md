@@ -1,3 +1,3 @@
 ## Hi there 👋
-Welcome to Zenzap. We are builidng tools & solutions for businessses
+Welcome to CodelingLabs. We are builidng tools & solutions for businessses
 
